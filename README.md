@@ -1,7 +1,16 @@
 # Lit-the-Darkness
 ## Training and Inference
 To train or try our model, you can follow the steps in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_NxLB93KvbdYnZwnBeLYP0MdveJJgVjr?usp=sharing)
-
+## Requirements
+* CUDA 10.0
+* Python 3.6+
+* Pytorch 1.0+
+* torchvision 0.4+
+* opencv-python
+* numpy
+* pillow
+* scikit-image
+  
 ## Acknowledgement
 
 - [SGZ](https://github.com/ShenZheng2000/Semantic-Guided-Low-Light-Image-Enhancement): We would like to express our gratitude to the authors for making their codebase publicly available, which has served as a foundation for our work.
